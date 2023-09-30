@@ -1,0 +1,83 @@
+.first {
+    color: darkgreen;
+    text-align: center;
+    border: 5px solid #2b1f2b;
+    border-radius: 15px;
+    background-color: rgb(179, 119, 152);
+}
+
+.second {
+    color: rgb(85, 54, 170);
+    text-align: center;
+    border: 5px dotted #2c479e;
+    border-radius: 15px;
+    background-color: rgb(158, 182, 182);
+}
+
+.third {
+    color: rgb(143, 20, 15);
+    text-align: center;
+    border: 5px dashed #2f10e0;
+    border-radius: 15px;
+    background-color: rgb(141, 219, 117);
+}
+
+.fourth {
+    color: rgb(78, 5, 173);
+    text-align: center;
+    border: 5px double #051d02;
+    border-radius: 15px;
+    background-color: rgb(133, 132, 138);
+}
+
+.fifth {
+    color: rgb(160, 110, 4);
+    text-align: center;
+    border: 5px groove#0a0333;
+    border-radius: 15px;
+    background-color: rgb(168, 121, 150);
+}
+
+.sixth {
+
+    color: rgb(248, 6, 196);
+    text-align: center;
+    border: 5px ridge #f1052c;
+    border-radius: 15px;
+    background-color: rgb(92, 135, 146);
+}
+
+.seventh {
+
+    color: rgb(116, 2, 2);
+    text-align: center;
+    border: 5px inset #08506d;
+    border-radius: 15px;
+    background-color: rgb(168, 79, 79);
+}
+
+.eighth {
+    color: rgb(184, 133, 133);
+    text-align: center;
+    border: 5px outset #310464;
+    border-radius: 15px;
+    background-color: rgb(85, 122, 70);
+}
+
+.ninth {
+    color: rgb(4, 92, 114);
+    text-align: center;
+    border: 5px none #42013f;
+    border-radius: 15px;
+    background-color: rgb(126, 103, 105);
+}
+
+.tenth {
+    color: rgb(88, 65, 1);
+    text-align: center;
+    border: 5px hidden #300522;
+    border-radius: 15px;
+    background-color: rgb(79, 162, 168);
+}
+
+    
